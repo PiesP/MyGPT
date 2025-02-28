@@ -12,6 +12,7 @@
 - Teichmüller–Tukey lemma = 타이히뮐러-투키 보조정리
 - Hartogs number = 하르톡스 수
 - Hartogs’ theorem = 하르톡스 정리
+- Beth Number = 베트 수
 - Haar measure = 하르 측도
 - Haar's theorem = 하르 정리
 - Convolution = 합성곱
