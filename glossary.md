@@ -168,3 +168,4 @@
 - Identity functor = 상수 함자
 - Diagonal functor = 대각 함자
 - Kan extension = 칸 확대
+- Woodin = 우딘
