@@ -1,3 +1,4 @@
+- Large cardinal = 큰 기수
 - Mahlo Cardinal = 말로 기수
 - Measurable Cardinal = 가측 기수
 - Inaccessible cardinal = 도달 불가능한 기수
