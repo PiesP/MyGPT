@@ -169,3 +169,9 @@
 - Diagonal functor = 대각 함자
 - Kan extension = 칸 확대
 - Woodin = 우딘
+- Pushout = 밂
+- Fibered coproduct = 올쌍대곱
+- Cokernel = 쌍대핵
+- Pullback = 당김
+- Fibered product = 올곱
+- Kernel = 핵
