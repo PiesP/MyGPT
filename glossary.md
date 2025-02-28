@@ -154,3 +154,4 @@
 - homotopy lifting property = 호모토피 올림 성질
 - Arithmetic = 산술
 - Inner Model = 내부 모형
+- Groupoid = 준군
