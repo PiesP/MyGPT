@@ -204,3 +204,4 @@
 - Fundamental class = 기본류
 - Coxeter group = 콕서터 군
 - Stone-Čech compactification = 스톤-체흐 콤팩트화
+- André Abraham Weil = 앙드레 아브라암 베유
