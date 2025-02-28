@@ -195,3 +195,11 @@
 - Cotangent space = 공변접공간
 - Tangent space = 접공간
 - Yevsey Nisnevich = 예브세이 니스네비치
+- Motive = 모티브
+- Algebraic cycle = 대수적 순환
+- John Torrence Tate, Jr. = 존 토런스 테이트 2세
+- Cup product = 합곱
+- Cap product = 교곱
+- Slant product = 경사곱
+- Fundamental class = 기본류
+- Coxeter group = 콕서터 군
