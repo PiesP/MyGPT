@@ -203,3 +203,4 @@
 - Slant product = 경사곱
 - Fundamental class = 기본류
 - Coxeter group = 콕서터 군
+- Stone-Čech compactification = 스톤-체흐 콤팩트화
