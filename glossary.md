@@ -155,3 +155,16 @@
 - Arithmetic = 산술
 - Inner Model = 내부 모형
 - Groupoid = 준군
+- Object = 대상
+- Morphism = 사상
+- Hom-set = 사상 집합
+- Hom-category = 사상 범주
+- Functor = 함자
+- Contravariant functor = 반변함자
+- Covariant functor = 공변함자
+- Endofunctor = 자기 함자
+- Endomorphism = 자기 사상
+- Self-map = 자기 함수
+- Identity functor = 상수 함자
+- Diagonal functor = 대각 함자
+- Kan extension = 칸 확대
