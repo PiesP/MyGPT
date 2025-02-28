@@ -151,3 +151,4 @@
 - covering space = 피복 공간  
 - universal covering space = 범피복 공간  
 - homotopy lifting property = 호모토피 올림 성질
+- Arithmetic = 산술
