@@ -17,6 +17,7 @@
 - Convolution = 합성곱
 - Banach = 바나흐
 - Gelfand = 겔판트
+- Multiplicative function = 곱셈적 함수
 - Pontryagin duality = 폰트랴긴 쌍대성
 - Dual space = 쌍대 공간
 - Primitive = 원시
