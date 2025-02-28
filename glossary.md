@@ -126,3 +126,4 @@
 - Principle of explosion = 폭발률
 - Peano arithmetic = 페아노 산술
 - Ground Model = 기저 모델
+- Huge cardinal = 거대 기수
