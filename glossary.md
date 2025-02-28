@@ -125,3 +125,4 @@
 - Inconsistency-tolerant logic = 모순허용논리
 - Principle of explosion = 폭발률
 - Peano arithmetic = 페아노 산술
+- Ground Model = 기저 모델
