@@ -127,3 +127,9 @@
 - Peano arithmetic = 페아노 산술
 - Ground Model = 기저 모델
 - Huge cardinal = 거대 기수
+- torsion subgroup = 꼬임 부분군  
+- braid group = 꼬임군  
+- Dehornoy order = 드오르누아 순서  
+- covering space = 피복 공간  
+- universal covering space = 범피복 공간  
+- homotopy lifting property = 호모토피 올림 성질
