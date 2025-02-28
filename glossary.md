@@ -194,3 +194,4 @@
 - Germ = 싹
 - Cotangent space = 공변접공간
 - Tangent space = 접공간
+- Yevsey Nisnevich = 예브세이 니스네비치
