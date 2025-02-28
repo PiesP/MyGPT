@@ -14,6 +14,7 @@
 - Hartogs’ theorem = 하르톡스 정리
 - Haar measure = 하르 측도
 - Haar's theorem = 하르 정리
+- Convolution = 합성곱
 - Supercompact cardinal = 초콤팩트 기수
 - Strongly compact cardinal = 강콤팩트 기수
 - Tychonoff’s theorem = 티호노프 정리
