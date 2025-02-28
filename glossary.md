@@ -190,3 +190,5 @@
 - Étale space = 에탈 공간
 - Stalk = 줄기
 - Germ = 싹
+- Cotangent space = 공변접공간
+- Tangent space = 접공간
