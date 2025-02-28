@@ -16,6 +16,7 @@
 - Haar's theorem = 하르 정리
 - Convolution = 합성곱
 - Banach = 바나흐
+- Gelfand = 겔판트
 - Pontryagin duality = 폰트랴긴 쌍대성
 - Dual space = 쌍대 공간
 - Primitive = 원시
