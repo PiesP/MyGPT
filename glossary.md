@@ -7,6 +7,7 @@
 - Zermelo = 체르멜로
 - Fraenkel = 프렝켈
 - Kuratowski–Zorn lemma = 쿠라토프스키-초른 보조정리
+- Well-Ordering Theorem = 정렬 정리
 - Zorn’s lemma = 초른 보조정리
 - Supercompact cardinal = 초콤팩트 기수
 - Strongly compact cardinal = 강콤팩트 기수
