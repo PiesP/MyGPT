@@ -188,6 +188,8 @@
 - Coherence = 연접성
 - Charles Émile Picard = 샤를 에밀 피카르
 - Étale space = 에탈 공간
+- Étale site = 에탈 위치
+- Étale cover = 에탈 덮개
 - Stalk = 줄기
 - Germ = 싹
 - Cotangent space = 공변접공간
