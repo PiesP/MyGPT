@@ -6,6 +6,8 @@
 - Zermelo–Fraenkel set theory with the axiom of choice = 선택 공리를 추가한 체르멜로-프렝켈 집합론
 - Zermelo = 체르멜로
 - Fraenkel = 프렝켈
+- Kuratowski–Zorn lemma = 쿠라토프스키-초른 보조정리
+- Zorn’s lemma = 초른 보조정리
 - Supercompact cardinal = 초콤팩트 기수
 - Strongly compact cardinal = 강콤팩트 기수
 - Tychonoff’s theorem = 티호노프 정리
