@@ -4,6 +4,8 @@
 - Weakly inaccessible cardinal = 약하게 도달 불가능한 기수
 - Grothendieck universe = 그로텐디크 전체
 - Zermelo–Fraenkel set theory with the axiom of choice = 선택 공리를 추가한 체르멜로-프렝켈 집합론
+- Zermelo = 체르멜로
+- Fraenkel = 프렝켈
 - Supercompact cardinal = 초콤팩트 기수
 - Strongly compact cardinal = 강콤팩트 기수
 - Tychonoff’s theorem = 티호노프 정리
