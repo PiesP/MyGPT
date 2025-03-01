@@ -1,208 +1,225 @@
-- Large cardinal = 큰 기수
-- Mahlo Cardinal = 말로 기수
-- Measurable Cardinal = 가측 기수
-- Inaccessible cardinal = 도달 불가능한 기수
-- Weakly inaccessible cardinal = 약하게 도달 불가능한 기수
-- Grothendieck universe = 그로텐디크 전체
-- Zermelo–Fraenkel set theory with the axiom of choice = 선택 공리를 추가한 체르멜로-프렝켈 집합론
-- Zermelo = 체르멜로
-- Fraenkel = 프렝켈
-- Kuratowski–Zorn lemma = 쿠라토프스키-초른 보조정리
-- Well-Ordering Theorem = 정렬 정리
-- Zorn’s lemma = 초른 보조정리
-- Teichmüller–Tukey lemma = 타이히뮐러-투키 보조정리
-- Hartogs number = 하르톡스 수
-- Hartogs’ theorem = 하르톡스 정리
-- Beth Number = 베트 수
-- Haar measure = 하르 측도
-- Haar's theorem = 하르 정리
-- Convolution = 합성곱
-- Banach = 바나흐
-- Gelfand = 겔판트
-- Multiplicative function = 곱셈적 함수
-- Pontryagin duality = 폰트랴긴 쌍대성
-- Dual space = 쌍대 공간
-- Primitive = 원시
-- Supercompact cardinal = 초콤팩트 기수
-- Strongly compact cardinal = 강콤팩트 기수
-- Tychonoff’s theorem = 티호노프 정리
-- Weakly compact cardinal = 약콤팩트 기수
-- Transitive set = 추이적 집합
-- Supertransitive set = 초추이적 집합
-- Transitive closure = 추이적 폐포
-- Transitive relation = 추이적 관계
-- Cofinality = 공종도
-- Regular cardinal = 정칙 기수
-- Singular cardinal = 특이 기수
-- Successor ordinal = 따름 순서수
-- Limit ordinal = 극한 순서수
-- Forcing = 강제법
-- Gödel = 괴델
-- Saharon Shelah = 사하론 셸라흐
-- Classification theory = 분류 이론
-- Morley’s problem = 몰리 문제
-- Elementary equivalence = 기본 동치
-- Elementary embedding = 기본 매장
-- Elementary substructure = 기본 부분 구조
-- Ultraproduct = 초곱
-- Filter = 필터
-- Ideal = 아이디얼
-- Prime filter = 소 필터
-- Maximal filter = 극대 필터
-- Ultrafilter = 초필터
-- Principal filter = 주 필터
-- Fréchet filter = 프레셰 필터
-- Neighbourhood filter = 근방 필터
-- Ultrapower = 초거듭제곱
-- Jerzy Łoś = 예르지 워시
-- Urelement = 원초
-- Transfinite number = 초한수
-- Cesare Burali-Forti = 체사레 부랄리포르티
-- Countable = 가산
-- Uncountable = 비가산
-- Diagonalization = 대각화
-- Idempotent = 멱등
-- Nilpotent = 멱영
-- Nilpotent element = 멱영원
-- Nilpotent group = 멱영군
-- Upper nilradical = 상영근기
-- Lower nilradical = 하영근기
-- Nilradical = 영근기
-- Köthe radical = 쾨테 근기
-- Baer–McCoy radical = 베어-맥코이 근기
-- Module = 가군
-- Radical = 근기
-- Socle = 주각
-- Unipotent element = 멱일원
-- Reduced ring = 축소환
-- Reduced affine scheme = 축소 아핀 스킴
-- Reduced scheme = 축소 스킴
-- Involution = 대합
-- Automorphism = 자기 동형 또는 자기 동형 사상
-- Isomorphic = 동형
-- Isomorphism = 동형 사상
-- Homomorphism = 준동형 또는 준동형 사상
-- Cohomology = 코호몰로지
-- Homology = 호몰로지
-- Cochain = 공사슬
-- Chain = 사슬
-- Coboundary homomorphism = 공경계 준동형
-- Boundary homomorphism = 경계 준동형
-- Fibration = 올뭉치
-- Fiber bundle = 올다발
-- Fiber space = 올공간
-- Base space = 밑공간
-- Bundle map = 다발 사상
-- Löb's theorem = 뢰프의 정리
-- Well-foundedness = 정초성
-- Ordinal analysis = 순서수 분석
-- Sequent calculus = 시퀀트 계산
-- Sequent = 시퀀트
-- Gentzen system = 겐첸 체계
-- Inconsistent = 비일관적
-- Antecedents = 전건
-- Succedents = 후건
-- Consequents = 귀결
-- Context = 문맥
-- Cut-elimination theorem = 자름-제거 정리
-- Natural deduction = 자연 연역
-- Deduction = 연역
-- Premise = 전제
-- Conclusion = 결론
-- Bound variable = 종속 변수
-- Free variable = 자유 변수
-- Operation = 연산
-- Relation = 관계
-- Universal quantifier = 전칭 기호
-- Existential quantifier = 존재 기호
-- Arity = 항수
-- Constant = 상수
-- Predicate = 술어
-- Term = 항
-- Axiom of extensionality = 확장 공리
-- Axiom of regularity = 정칙성 공리
-- Axiom of foundation = 기초 공리
-- Axiom schema of specification = 분류 공리꼴
-- Axiom schema of replacement = 치환 공리꼴
-- Axiom of pairing = 짝 공리
-- Axiom of union = 합집합 공리
-- Axiom of power set = 멱집합 공리
-- Axiom of infinity = 무한 공리
-- Curry-Howard correspondence = 커리-하워드 대응
-- Reverse mathematics = 역수학
-- Descriptive set theory = 기술적 집합론
-- Intuitionistic logic = 직관 논리
-- Superintuitionistic logic = 초직관 논리
-- Law of excluded middle = 배중률
-- Modal logic = 양상 논리
-- Transfinite induction = 초한 귀납법
-- Transfinite recursion = 초한 재귀
-- Well-defined = 잘 정의된
-- Law of noncontradiction = 비모순율 또는 무모순율
-- Law of contradiction = 모순율
-- Paraconsistent logic = 초일관 논리
-- Inconsistency-tolerant logic = 모순허용논리
-- Principle of explosion = 폭발률
-- Peano arithmetic = 페아노 산술
-- Ground Model = 기저 모델
-- Huge cardinal = 거대 기수
-- torsion subgroup = 꼬임 부분군  
-- braid group = 꼬임군  
-- Dehornoy order = 드오르누아 순서  
-- covering space = 피복 공간  
-- universal covering space = 범피복 공간  
-- homotopy lifting property = 호모토피 올림 성질
-- Arithmetic = 산술
-- Inner Model = 내부 모형
-- Groupoid = 준군
-- Object = 대상
-- Morphism = 사상
-- Hom-set = 사상 집합
-- Hom-category = 사상 범주
-- Functor = 함자
-- Contravariant functor = 반변함자
-- Covariant functor = 공변함자
-- Endofunctor = 자기 함자
-- Endomorphism = 자기 사상
-- Self-map = 자기 함수
-- Identity functor = 상수 함자
-- Diagonal functor = 대각 함자
-- Kan extension = 칸 확대
-- Woodin = 우딘
-- Pushout = 밂
-- Fibered coproduct = 올쌍대곱
-- Cokernel = 쌍대핵
-- Pullback = 당김
-- Fibered product = 올곱
-- Kernel = 핵
-- Sheaf = 층
-- Presheaf = 준층
-- Coherent = 연접
-- Quasicoherent = 준연접
-- Coherent sheaf of modules = 연접 가군층
-- Quasicoherent sheaf of modules = 준연접 가군층
-- Noether = 뇌터
-- Noetherian ring = 뇌터 환
-- Emil Artin = 에밀 아르틴
-- Michael Artin = 마이클 아틴
-- Coherence = 연접성
-- Charles Émile Picard = 샤를 에밀 피카르
-- Étale space = 에탈 공간
-- Étale site = 에탈 위치
-- Étale cover = 에탈 덮개
-- Stalk = 줄기
-- Germ = 싹
-- Cotangent space = 공변접공간
-- Tangent space = 접공간
-- Yevsey Nisnevich = 예브세이 니스네비치
-- Motive = 모티브
-- Algebraic cycle = 대수적 순환
-- John Torrence Tate, Jr. = 존 토런스 테이트 2세
-- Cup product = 합곱
-- Cap product = 교곱
-- Slant product = 경사곱
-- Fundamental class = 기본류
-- Coxeter group = 콕서터 군
-- Stone-Čech compactification = 스톤-체흐 콤팩트화
-- André Abraham Weil = 앙드레 아브라암 베유
-- Geodesic = 측지선
+# 집합론 및 초한수 이론 (Set Theory & Transfinite Numbers)
+- **기수 관련**
+  - Large cardinal: 큰 기수  
+    - Mahlo Cardinal: 말로 기수  
+    - Measurable Cardinal: 가측 기수  
+    - Inaccessible cardinal: 도달 불가능한 기수  
+    - Weakly inaccessible cardinal: 약하게 도달 불가능한 기수  
+    - Supercompact cardinal: 초콤팩트 기수  
+    - Strongly compact cardinal: 강콤팩트 기수  
+    - Weakly compact cardinal: 약콤팩트 기수  
+    - Huge cardinal: 거대 기수
+- **기타 집합론 기본 개념**
+  - Grothendieck universe: 그로텐디크 전체  
+  - Zermelo–Fraenkel set theory with the axiom of choice: 선택 공리를 추가한 체르멜로-프렝켈 집합론  
+    - Zermelo: 체르멜로  
+    - Fraenkel: 프렝켈  
+  - Hartogs number: 하르톡스 수  
+    - Hartogs’ theorem: 하르톡스 정리  
+  - Beth Number: 베트 수  
+  - Cofinality: 공종도  
+  - Regular cardinal: 정칙 기수  
+  - Singular cardinal: 특이 기수
+- **초한(Transfinite) 방법**
+  - Transfinite induction: 초한 귀납법  
+  - Transfinite recursion: 초한 재귀  
+  - Transfinite number: 초한수
+- **집합의 성질 및 확장**
+  - Transitive set: 추이적 집합  
+  - Supertransitive set: 초추이적 집합  
+  - Transitive closure: 추이적 폐포  
+  - Transitive relation: 추이적 관계
+
+# 순서론 및 논리학 (Order Theory & Logic)
+- **정리 및 보조정리**
+  - Well-Ordering Theorem: 정렬 정리  
+  - Zorn’s lemma: 초른 보조정리  
+  - Kuratowski–Zorn lemma: 쿠라토프스키-초른 보조정리  
+  - Teichmüller–Tukey lemma: 타이히뮐러-투키 보조정리  
+  - Löb's theorem: 뢰프의 정리  
+  - Cut-elimination theorem: 자름-제거 정리
+- **연역 체계**
+  - Natural deduction: 자연 연역  
+  - Deduction: 연역  
+  - Premise: 전제  
+  - Conclusion: 결론
+- **논리 기호 및 변수**
+  - Universal quantifier: 전칭 기호  
+  - Existential quantifier: 존재 기호  
+  - Bound variable: 종속 변수  
+  - Free variable: 자유 변수
+- **산술 체계**
+  - Peano arithmetic: 페아노 산술
+
+# 위상수학 (Topology)
+- Haar measure: 하르 측도  
+- Haar's theorem: 하르 정리  
+- Tychonoff’s theorem: 티호노프 정리  
+- Stone-Čech compactification: 스톤-체흐 콤팩트화  
+- Covering space: 피복 공간  
+- Universal covering space: 범피복 공간  
+- Homotopy lifting property: 호모토피 올림 성질  
+- Fiber bundle: 올다발  
+  - Fiber space: 올공간  
+  - Base space: 밑공간  
+  - Bundle map: 다발 사상  
+- Betti number: 베티 수
+
+# 대수학 (Algebra)
+- Multiplicative function: 곱셈적 함수  
+- Torsion subgroup: 꼬임 부분군  
+- Braid group: 꼬임군  
+- Dehornoy order: 드오르누아 순서  
+- Isomorphism: 동형 사상  
+  - Automorphism: 자기 동형(사상)  
+  - Endomorphism: 자기 사상  
+  - Self-map: 자기 함수
+- Convolution: 합성곱  
+- Banach: 바나흐  
+- Gelfand: 겔판트  
+- Pontryagin duality: 폰트랴긴 쌍대성  
+- Dual space: 쌍대 공간  
+- Primitive: 원시
+- **추가 대수학 관련 개념**
+  - Nilpotent: 멱영  
+    - Nilpotent element: 멱영원  
+    - Nilpotent group: 멱영군  
+  - Upper nilradical: 상영근기  
+  - Lower nilradical: 하영근기  
+  - Nilradical: 영근기  
+  - Köthe radical: 쾨테 근기  
+  - Baer–McCoy radical: 베어-맥코이 근기  
+  - Module: 가군  
+  - Radical: 근기  
+  - Socle: 주각  
+  - Unipotent element: 멱일원  
+  - Reduced ring: 축소환  
+  - Reduced affine scheme: 축소 아핀 스킴  
+  - Reduced scheme: 축소 스킴  
+  - Involution: 대합  
+  - Homomorphism: 준동형(사상)  
+  - Cohomology: 코호몰로지  
+  - Homology: 호몰로지  
+  - Cochain: 공사슬  
+  - Chain: 사슬  
+  - Coboundary homomorphism: 공경계 준동형  
+  - Boundary homomorphism: 경계 준동형  
+  - Fibration: 올뭉치
+
+# 범주론 및 대수적 위상수학 (Category Theory & Algebraic Topology)
+- **범주론 기초**
+  - Groupoid: 준군  
+  - Object: 대상  
+  - Morphism: 사상  
+  - Hom-set: 사상 집합  
+  - Hom-category: 사상 범주  
+  - Functor: 함자  
+    - Contravariant functor: 반변함자  
+    - Covariant functor: 공변함자  
+    - Endofunctor: 자기 함자
+- **함자 관련 및 다이어그램 한계**
+  - Kan extension: 칸 확대  
+  - Pushout: 밂  
+  - Fibered coproduct: 올쌍대곱  
+  - Cokernel: 쌍대핵  
+  - Pullback: 당김  
+  - Fibered product: 올곱  
+  - Kernel: 핵
+- **층 이론 (Sheaf Theory)**
+  - Sheaf: 층  
+  - Presheaf: 준층  
+  - Coherent sheaf of modules: 연접 가군층  
+  - Quasicoherent sheaf of modules: 준연접 가군층
+
+# 논리학 및 기초 수학 (Logic & Foundations)
+- **논리 법칙**
+  - Law of excluded middle: 배중률  
+  - Law of noncontradiction: 비모순율(또는 무모순율)  
+  - Law of contradiction: 모순율  
+  - Paraconsistent logic: 초일관 논리  
+  - Inconsistency-tolerant logic: 모순허용논리  
+  - Principle of explosion: 폭발률
+- **논리 체계 및 방법론**
+  - Reverse mathematics: 역수학  
+  - Descriptive set theory: 기술적 집합론  
+  - Intuitionistic logic: 직관 논리  
+  - Superintuitionistic logic: 초직관 논리  
+  - Modal logic: 양상 논리  
+  - Well-foundedness: 정초성  
+  - Ordinal analysis: 순서수 분석  
+  - Sequent calculus: 시퀀트 계산  
+    - Sequent: 시퀀트  
+    - Gentzen system: 겐첸 체계  
+  - Inconsistent: 비일관적  
+  - Antecedents: 전건  
+  - Succedents: 후건  
+  - Consequents: 귀결  
+  - Context: 문맥
+- **공리계 (Axiomatic Set Theory)**
+  - Axiom of extensionality: 확장 공리  
+  - Axiom of regularity (또는 foundation): 정칙성(기초) 공리  
+  - Axiom schema of specification: 분류 공리꼴  
+  - Axiom schema of replacement: 치환 공리꼴  
+  - Axiom of pairing: 짝 공리  
+  - Axiom of union: 합집합 공리  
+  - Axiom of power set: 멱집합 공리  
+  - Axiom of infinity: 무한 공리
+- **기타**
+  - Curry-Howard correspondence: 커리-하워드 대응  
+  - Well-defined: 잘 정의된
+
+# 모델 이론 및 필터 관련 개념 (Model Theory & Filter Concepts)
+- Successor ordinal: 따름 순서수  
+- Limit ordinal: 극한 순서수  
+- Forcing: 강제법  
+- Elementary equivalence: 기본 동치  
+- Elementary embedding: 기본 매장  
+- Elementary substructure: 기본 부분 구조  
+- Ultraproduct: 초곱  
+- Filter: 필터  
+  - Prime filter: 소 필터  
+  - Maximal filter: 극대 필터  
+  - Ultrafilter: 초필터  
+  - Principal filter: 주 필터  
+  - Fréchet filter: 프레셰 필터  
+  - Neighbourhood filter: 근방 필터  
+- Ultrapower: 초거듭제곱  
+- Urelement: 원초  
+- Countable: 가산  
+- Uncountable: 비가산  
+- Diagonalization: 대각화  
+- Idempotent: 멱등  
+- Ground Model: 기저 모델  
+- Inner Model: 내부 모형
+
+# 기타 대수적·위상수학 관련 용어
+- Étale space: 에탈 공간  
+- Étale site: 에탈 위치  
+- Étale cover: 에탈 덮개  
+- Stalk: 줄기  
+- Germ: 싹  
+- Cotangent space: 공변접공간  
+- Tangent space: 접공간  
+- Motive: 모티브  
+- Algebraic cycle: 대수적 순환  
+- Cup product: 합곱  
+- Cap product: 교곱  
+- Slant product: 경사곱  
+- Fundamental class: 기본류  
+- Coxeter group: 콕서터 군  
+- Noetherian ring: 뇌터 환  
+- Coherence: 연접성
+
+# 유명 수학자 (Notable Mathematicians)
+- Gödel: 괴델  
+- Saharon Shelah: 사하론 셸라흐  
+- Jerzy Łoś: 예르지 워시  
+- Cesare Burali-Forti: 체사레 부랄리포르티  
+- Noether: 뇌터  
+- Emil Artin: 에밀 아르틴  
+- Michael Artin: 마이클 아틴  
+- John Torrence Tate, Jr.: 존 토런스 테이트 2세  
+- Charles Émile Picard: 샤를 에밀 피카르  
+- André Abraham Weil: 앙드레 아브라암 베유  
+- Yevsey Nisnevich: 예브세이 니스네비치  
+- Woodin: 우딘
