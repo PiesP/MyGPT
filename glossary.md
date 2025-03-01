@@ -223,3 +223,4 @@
 - André Abraham Weil: 앙드레 아브라암 베유  
 - Yevsey Nisnevich: 예브세이 니스네비치  
 - William Hugh Woodin: 윌리엄 휴 우딘
+- Paul Joseph Cohen: 폴 조지프 코언
