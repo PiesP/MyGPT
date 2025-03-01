@@ -178,6 +178,7 @@
   - Ramified forcing: 분기 강제법
   - Unramified forcing: 비분기 강제법
   - Iterated forcing: 반복 강제법
+  - Valuation (또는 Interpretation): 해석
 - Elementary equivalence: 기본 동치  
 - Elementary embedding: 기본 매장  
 - Elementary substructure: 기본 부분 구조  
