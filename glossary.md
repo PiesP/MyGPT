@@ -171,7 +171,13 @@
 # 모델 이론 및 필터 관련 개념 (Model Theory & Filter Concepts)
 - Successor ordinal: 따름 순서수  
 - Limit ordinal: 극한 순서수  
-- Forcing: 강제법  
+- Forcing: 강제법
+  - Forcing condition: 강제 조건
+  - Cohen forcing: 코언 강제법
+  - Random forcing: 무작위 강제법
+  - Ramified forcing: 분기 강제법
+  - Unramified forcing: 비분기 강제법
+  - Iterated forcing: 반복 강제법
 - Elementary equivalence: 기본 동치  
 - Elementary embedding: 기본 매장  
 - Elementary substructure: 기본 부분 구조  
@@ -224,3 +230,4 @@
 - Yevsey Nisnevich: 예브세이 니스네비치  
 - William Hugh Woodin: 윌리엄 휴 우딘
 - Paul Joseph Cohen: 폴 조지프 코언
+- Robert Martin Solovay: 로버트 마틴 솔로베이
