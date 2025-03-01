@@ -211,15 +211,15 @@
 - Coherence: 연접성
 
 # 유명 수학자 (Notable Mathematicians)
-- Gödel: 괴델  
+- Kurt Gödel: 쿠르트 괴델  
 - Saharon Shelah: 사하론 셸라흐  
 - Jerzy Łoś: 예르지 워시  
 - Cesare Burali-Forti: 체사레 부랄리포르티  
-- Noether: 뇌터  
+- Amalie Emmy Noether: 아말리에 에미 뇌터  
 - Emil Artin: 에밀 아르틴  
 - Michael Artin: 마이클 아틴  
 - John Torrence Tate, Jr.: 존 토런스 테이트 2세  
 - Charles Émile Picard: 샤를 에밀 피카르  
 - André Abraham Weil: 앙드레 아브라암 베유  
 - Yevsey Nisnevich: 예브세이 니스네비치  
-- Woodin: 우딘
+- William Hugh Woodin: 윌리엄 휴 우딘
