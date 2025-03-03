@@ -216,6 +216,7 @@
 - Coxeter group: 콕서터 군  
 - Noetherian ring: 뇌터 환  
 - Coherence: 연접성
+- Moduli space: 모듈라이 공간
 
 # 유명 수학자 (Notable Mathematicians)
 - Kurt Gödel: 쿠르트 괴델  
@@ -232,3 +233,8 @@
 - William Hugh Woodin: 윌리엄 휴 우딘
 - Paul Joseph Cohen: 폴 조지프 코언
 - Robert Martin Solovay: 로버트 마틴 솔로베이
+
+# 물리학 및 수리물리학 (Physics & Mathematical Physics)
+- Perturbation: 섭동
+- Loop Quantum Gravity: 루프 양자중력
+- String Theory: 끈 이론
