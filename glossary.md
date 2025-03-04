@@ -27,7 +27,7 @@
 - Zermelo–Fraenkel set theory with the axiom of choice​: 선택 공리를 추가한 체르멜로-프렝켈 집합론  
   - Axiom of extensionality​: 확장 공리  
   - Axiom of regularity / Axiom of foundation​: 정칙성 공리 / 기초 공리  
-    > *참고: 두 공리는 동일한 내용(정초성)을 나타냄*  
+    > 참고: 두 공리는 동일한 내용(정초성)을 나타냄  
   - Axiom schema of specification​: 분류 공리꼴  
   - Axiom schema of replacement​: 치환 공리꼴  
   - Axiom of pairing​: 짝 공리  
