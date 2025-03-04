@@ -73,6 +73,7 @@
 - Fundamental group: 기본군
 - Gromov–Witten invariant: 그로모프-위튼 불변량
 - Monodromy: 모노드로미
+- Kähler structure: 켈러 다양체
 
 # 대수학 및 범주론​
 - Isomorphism​: 동형 사상  
@@ -95,6 +96,7 @@
 - Universal property​: 보편 성질  
 - Kan extension​: 칸 확대  
 - Action: 작용
+- Derived category: 유도 범주
 
 # 논리학 및 기초 수학​
 - Well-Ordering Theorem​: 정렬 정리  
@@ -124,6 +126,7 @@
 - Loop Quantum Gravity​: 루프 양자중력  
 - String Theory​: 끈 이론  
 - Chern–Simons theory: 천-사이먼스 이론
+- Mirror symmetry: 거울 대칭
 
 # 유명 수학자​
 - Kurt Gödel​: 쿠르트 괴델  
