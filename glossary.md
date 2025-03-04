@@ -72,6 +72,8 @@
 - **Canonical class**​: 표준류  
 - **Genus**​: 종수  
 - **Fundamental group**​: 기본군  
+- **Mapping class group**​: 사상류군
+- **Deformation theory**​: 변형 이론
 
 ---
 
