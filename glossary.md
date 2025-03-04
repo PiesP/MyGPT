@@ -42,6 +42,13 @@
 - Pontryagin class: 폰트랴긴 특성류  
 - Chern class: 천 특성류  
 - Basis: 기저  
+- Rational map: 유리 사상
+- Birationally equivalent: 쌍유리 동치
+- Blowup: 부풀리기
+- Exceptional divisor: 예외 인자
+- Cartier divisor: 카르티에 인자
+- Weil divisor: 베유 인자
+- Fractional ideal: 분수 아이디얼
 
 ---
 
@@ -112,3 +119,4 @@
 - Wei-Liang Chow: 저우웨이량  
 - Lev Pontryagin: 레프 폰트랴긴  
 - Alexander Gelfond: 알렉산드르 오시포비치 겔폰트  
+- Wolfgang Krull: 볼프강 크룰
