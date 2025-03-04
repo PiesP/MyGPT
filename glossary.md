@@ -48,7 +48,10 @@
 - Exceptional divisor: 예외 인자
 - Cartier divisor: 카르티에 인자
 - Weil divisor: 베유 인자
+- Canonical divisor: 표준 인자
 - Fractional ideal: 분수 아이디얼
+- Canonical line bundle: 표준 선다발
+- Canonical class: 표준류
 
 ---
 
@@ -69,6 +72,9 @@
 - Pontryagin duality: 폰트랴긴 쌍대성  
 - Duality: 쌍대성  
 - Dual: 쌍대  
+- Natural transformation: 자연 변환
+- Universal property: 보편 성질
+- Kan extension: 칸 확대
 
 ---
 
@@ -120,3 +126,5 @@
 - Lev Pontryagin: 레프 폰트랴긴  
 - Alexander Gelfond: 알렉산드르 오시포비치 겔폰트  
 - Wolfgang Krull: 볼프강 크룰
+- Daniel Marinus Kan: 다니얼 마리뉘스 칸
+- Albrecht Egon Dold: 알브리히트 에곤 돌트
