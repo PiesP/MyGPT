@@ -20,6 +20,8 @@
   - Cofinality: 공종도  
   - Regular cardinal: 정칙 기수  
   - Singular cardinal: 특이 기수  
+  - Antichain: 반사슬
+  - Chain: 사슬
 
 ---
 
@@ -36,6 +38,10 @@
 - Tangent space: 접공간  
 - Cotangent space: 공변접공간  
 - Simply connected space: 단일 연결 공간  
+- Moduli space: 모듈라이 공간
+- Pontryagin class: 폰트랴긴 특성류
+- Chern class: 천 특성류
+- Basis: 기저
 
 ---
 
@@ -99,4 +105,11 @@
 - Paul Joseph Cohen: 폴 조지프 코언  
 - Amalie Emmy Noether: 아말리에 에미 뇌터  
 - Emil Artin: 에밀 아르틴  
-- Jules Henri Poincaré: 쥘 앙리 푸앵카레  
+- Jules Henri Poincaré: 쥘 앙리 푸앵카레 
+- Oswald Teichmüller: 오스발트 타이히뮐러
+- Erich Kähler: 에리히 켈러
+- Shiing-Shen Chern: 천싱선
+- Wei-Liang Chow: 저우웨이량
+- Lev Pontryagin: 레프 폰트랴긴
+- Alexander Gelfond: 알렉산드르 오시포비치 겔폰트
+
