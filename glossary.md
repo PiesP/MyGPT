@@ -69,6 +69,10 @@
 - Fractional ideal​: 분수 아이디얼  
 - Canonical line bundle​: 표준 선다발  
 - Canonical class​: 표준류  
+- Genus​: 종수
+- Fundamental group: 기본군
+- Gromov–Witten invariant: 그로모프-위튼 불변량
+- Monodromy: 모노드로미
 
 # 대수학 및 범주론​
 - Isomorphism​: 동형 사상  
@@ -90,6 +94,7 @@
 - Natural transformation​: 자연 변환  
 - Universal property​: 보편 성질  
 - Kan extension​: 칸 확대  
+- Action: 작용
 
 # 논리학 및 기초 수학​
 - Well-Ordering Theorem​: 정렬 정리  
@@ -118,6 +123,7 @@
 - Perturbation​: 섭동  
 - Loop Quantum Gravity​: 루프 양자중력  
 - String Theory​: 끈 이론  
+- Chern–Simons theory: 천-사이먼스 이론
 
 # 유명 수학자​
 - Kurt Gödel​: 쿠르트 괴델  
@@ -138,3 +144,4 @@
 - Herbert Kenneth Kunen​: 허버트 케네스 쿠넌  
 - William Hugh Woodin​: 윌리엄 휴 우딘  
 - Alfred Tarski​: 알렉산드르 타르스키  
+- James Harris Simons: 제임스 해리스 사이먼스
