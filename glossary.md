@@ -32,7 +32,8 @@
 - Étale space: 에탈 공간  
 - Étale cover: 에탈 덮개  
 - Tangent space: 접공간  
-- Cotangent space: 공변접공간  
+- Cotangent space: 공변접공간
+- Simply connected space: 단일 연결 공간
 
 # 대수학 및 범주론 (Algebra & Category Theory)
 - Multiplicative function: 곱셈적 함수  
