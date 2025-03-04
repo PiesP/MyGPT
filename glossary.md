@@ -82,4 +82,5 @@
 - Saharon Shelah: 사하론 셸라흐  
 - Paul Joseph Cohen: 폴 조지프 코언  
 - Amalie Emmy Noether: 아말리에 에미 뇌터  
-- Emil Artin: 에밀 아르틴  
+- Emil Artin: 에밀 아르틴
+- Jules Henri Poincaré: 쥘 앙리 푸앵카레
