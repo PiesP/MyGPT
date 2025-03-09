@@ -121,3 +121,5 @@
 - Alfred Tarski: 알프레드 타르스키  
 - William Hugh Woodin: 윌리엄 휴 우딘
 - Frank Plumpton Ramsey: 프랭크 플럼프턴 램지
+- Saul Aaron Kripke: 솔 에런 크립키
+- Solomon Feferman: 솔로몬 페퍼만
