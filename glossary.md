@@ -120,3 +120,4 @@
 - Wolfgang Krull: 볼프강 크룰  
 - Alfred Tarski: 알프레드 타르스키  
 - William Hugh Woodin: 윌리엄 휴 우딘
+- Frank Plumpton Ramsey: 프랭크 플럼프턴 램지
