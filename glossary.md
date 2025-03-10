@@ -9,6 +9,7 @@
   - Strongly compact cardinal: 강콤팩트 기수  
   - Weakly compact cardinal: 약콤팩트 기수  
   - Huge cardinal: 거대 기수  
+  - Hyper-huge cardinal: 초거대 기수  
   - Extendible cardinal: 확장 가능 기수  
   - Vopěnka cardinal: 보펜카 기수  
 
@@ -42,15 +43,23 @@
 - Singular cardinal: 특이 기수  
 - Well-founded: 정초  
 - Continuum: 연속체  
+- Stationary set: 정상 집합
+- Set-theoretic geology: 집합론적 지질학
+- Forcing: 강제법
 - Ground model: 기반 모형
 - Mantle: 멘틀
-- Forcing: 강제법
+- Generic mantle: 일반 멘틀
+- Generic HOD: 일반 HOD
+- Generic multiverse: 일반 다중우주
+- Downward directed grounds hypothesis (DDG): 하강 지향 기반 가설
+- Strong DDG: 강한 하강 지향 기반 가설
+- Maximality principle: 최대성 원리
 
 ---
 
 # 위상수학 및 대수기하학
 - Haar measure: 하르 측도  
-- Tychonoff’s theorem: 티호노프 정리  
+- Tychonoff's theorem: 티호노프 정리  
 - Stone-Čech compactification: 스톤-체흐 콤팩트화  
 - Covering space: 피복 공간  
 - Universal covering space: 범피복 공간  
@@ -59,6 +68,8 @@
 - Moduli space: 모듈라이 공간  
 - Étale space: 에탈 공간  
 - Étale cover: 에탈 덮개  
+- Uniform cover: 균등 덮개
+- Approximation property: 근사 성질
 - Tangent space: 접공간  
 - Cotangent space: 공변접공간  
 - Pontryagin class: 폰트랴긴 특성류  
@@ -102,7 +113,7 @@
 
 # 논리학 및 기초 수학
 - Well-Ordering Theorem: 정렬 정리  
-- Zorn’s lemma: 초른 보조정리  
+- Zorn's lemma: 초른 보조정리  
 - Löb's theorem: 뢰프의 정리  
 - Law of excluded middle: 배중률  
 - Law of noncontradiction: 비모순율  
@@ -123,3 +134,4 @@
 - Frank Plumpton Ramsey: 프랭크 플럼프턴 램지
 - Saul Aaron Kripke: 솔 에런 크립키
 - Solomon Feferman: 솔로몬 페퍼만
+- Toshimichi Usuba: 우스바 토시미치
