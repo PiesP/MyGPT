@@ -57,6 +57,20 @@
 
 ---
 
+# 해석학 및 함수해석학
+- Hilbert Space: 힐베르트 공간
+- Banach Space: 바나흐 공간
+- Measure Theory: 측도 이론
+- Compactness / Compact Set: 콤팩트성 / 콤팩트 집합
+
+---
+
+# 기하학 및 미분기하학
+- Manifold: 다양체
+- Tensor: 텐서
+
+---
+
 # 위상수학 및 대수기하학
 - Haar measure: 하르 측도  
 - Tychonoff's theorem: 티호노프 정리  
@@ -117,6 +131,19 @@
 - Löb's theorem: 뢰프의 정리  
 - Law of excluded middle: 배중률  
 - Law of noncontradiction: 비모순율  
+
+## 수학적 사고 및 방법론
+- Abstraction: 추상화
+- Canonical Form / Canonical Representation: 표준형 / 정준 표현
+- Rigor / Mathematical Rigor: 엄밀성 / 수학적 엄밀성
+
+---
+
+# 수리물리학
+- Wave Function: 파동함수
+- Lagrangian (field theory): 라그랑지언 (장 이론)
+- Yangian: 양이언 대수
+- Spontaneous Symmetry Breaking: 자발적 대칭 깨짐
 
 ---
 
