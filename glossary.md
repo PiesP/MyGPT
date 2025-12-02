@@ -43,9 +43,14 @@
 - Singular cardinal: 특이 기수  
 - Well-founded: 정초  
 - Continuum: 연속체  
+- Continuum hypothesis: 연속체 가설
+- Generalized continuum hypothesis: 일반화된 연속체 가설
 - Stationary set: 정상 집합
+- Club set: 클럽 집합
+- Closed unbounded set: 닫힌 비유계 집합
 - Set-theoretic geology: 집합론적 지질학
 - Forcing: 강제법
+- Generic filter: 일반 필터
 - Ground model: 기반 모형
 - Mantle: 멘틀
 - Generic mantle: 일반 멘틀
@@ -54,6 +59,8 @@
 - Downward directed grounds hypothesis (DDG): 하강 지향 기반 가설
 - Strong DDG: 강한 하강 지향 기반 가설
 - Maximality principle: 최대성 원리
+- Reflection principle: 반영 원리
+- Levy hierarchy: 레비 계층
 
 ---
 
@@ -62,12 +69,53 @@
 - Banach Space: 바나흐 공간
 - Measure Theory: 측도 이론
 - Compactness / Compact Set: 콤팩트성 / 콤팩트 집합
+- Lebesgue measure: 르베스그 측도
+- Borel set: 보렐 집합
+- σ-algebra: σ-대수
+- Measurable space: 가측 공간
+- Probability space: 확률 공간
+- Lp space: Lp 공간
+- Norm: 노름
+- Inner product: 내적
+- Orthogonality: 직교성
+- Complete space: 완비 공간
+- Convergence: 수렴
+- Uniform convergence: 균등 수렴
+- Pointwise convergence: 점별 수렴
+- Weak convergence: 약수렴
+- Strong convergence: 강수렴
+- Operator theory: 작용소 이론
+- Bounded operator: 유계 작용소
+- Compact operator: 콤팩트 작용소
+- Self-adjoint operator: 자기수반 작용소
+- Spectral theory: 스펙트럼 이론
+- Functional: 범함수
 
 ---
 
 # 기하학 및 미분기하학
 - Manifold: 다양체
+- Differentiable manifold: 미분가능 다양체
+- Smooth manifold: 매끄러운 다양체
+- Riemannian manifold: 리만 다양체
+- Symplectic manifold: 심플렉틱 다양체
+- Complex manifold: 복소 다양체
+- Kähler manifold: 켈러 다양체
 - Tensor: 텐서
+- Tensor field: 텐서장
+- Vector field: 벡터장
+- Differential form: 미분형식
+- Exterior derivative: 외미분
+- Covariant derivative: 공변미분
+- Connection: 접속
+- Levi-Civita connection: 레비-치비타 접속
+- Curvature: 곡률
+- Ricci curvature: 리치 곡률
+- Sectional curvature: 단면 곡률
+- Gaussian curvature: 가우스 곡률
+- Geodesic: 측지선
+- Parallel transport: 평행 이동
+- Metric tensor: 계량 텐서
 
 ---
 
@@ -109,41 +157,121 @@
 ---
 
 # 대수학 및 범주론
+
+## 대수적 구조
+- Group: 군
+- Ring: 환
+- Field: 체
+- Module: 가군
+- Algebra: 대수
+- Lie algebra: 리 대수
+- Hopf algebra: 호프 대수
+- Ideal: 아이디얼
+- Prime ideal: 소 아이디얼
+- Maximal ideal: 극대 아이디얼
+- Quotient: 몫
+
+## 사상 및 구조
 - Isomorphism: 동형 사상  
 - Automorphism: 자기 동형(사상)  
 - Endomorphism: 자기 사상  
+- Homomorphism: 준동형 사상
+- Epimorphism: 전사 사상
+- Monomorphism: 단사 사상
+- Bijection: 전단사
 - Multiplicative function: 곱셈적 함수  
+
+## 범주론
+- Category: 범주
 - Functor: 함자  
 - Contravariant functor: 반변 함자  
 - Covariant functor: 공변 함자  
+- Natural transformation: 자연 변환
+- Adjoint functor: 수반 함자
 - Kernel: 핵  
 - Cokernel: 쌍대핵  
+- Image: 상
+- Coimage: 쌍대상
 - Pushout: 밂  
 - Pullback: 당김  
+- Limit: 극한
+- Colimit: 쌍대극한
+- Product: 곱
+- Coproduct: 쌍대곱
+- Universal property: 보편 성질
+
+## 호몰로지 이론
 - Cohomology: 코호몰로지  
 - Homology: 호몰로지  
+- Chain complex: 사슬 복합체
+- Exact sequence: 완전열
+- Long exact sequence: 긴 완전열
+- Snake lemma: 뱀 보조정리
+- Five lemma: 다섯 보조정리
 
 ---
 
 # 논리학 및 기초 수학
+
+## 논리학
+- First-order logic: 1차 논리
+- Higher-order logic: 고차 논리
+- Modal logic: 양상 논리
+- Intuitionistic logic: 직관주의 논리
+- Classical logic: 고전 논리
+- Predicate logic: 술어 논리
+- Propositional logic: 명제 논리
+- Completeness: 완전성
+- Soundness: 건전성
+- Consistency: 무모순성
+- Decidability: 결정가능성
+- Gödel's incompleteness theorems: 괴델의 불완전성 정리
+- Compactness theorem: 콤팩트성 정리
+
+## 기본 정리 및 원리
 - Well-Ordering Theorem: 정렬 정리  
 - Zorn's lemma: 초른 보조정리  
 - Löb's theorem: 뢰프의 정리  
 - Law of excluded middle: 배중률  
-- Law of noncontradiction: 비모순율  
+- Law of noncontradiction: 비모순율
+- Axiom of determinacy: 결정성 공리
+- Church-Turing thesis: 처치-튜링 논제
 
 ## 수학적 사고 및 방법론
 - Abstraction: 추상화
 - Canonical Form / Canonical Representation: 표준형 / 정준 표현
 - Rigor / Mathematical Rigor: 엄밀성 / 수학적 엄밀성
+- Proof by contradiction: 귀류법
+- Proof by induction: 귀납법
+- Direct proof: 직접 증명
+- Constructive proof: 구성적 증명
+- Existence proof: 존재 증명
 
 ---
 
 # 수리물리학
+
+## 양자역학
+- Quantum Entanglement: 양자 얽힘
+- Quantum Tunneling: 양자 터널링
+- Quantum Superposition: 양자 중첩
+- Wave-Particle Duality: 파동-입자 이중성
+- Quantum Decoherence: 양자 비간섭화
 - Wave Function: 파동함수
+
+## 양자장 이론 및 현대 물리학
+- Quantum Field Theory: 양자장 이론
+- Quantum Computing: 양자 컴퓨팅
 - Lagrangian (field theory): 라그랑지언 (장 이론)
 - Yangian: 양이언 대수
 - Spontaneous Symmetry Breaking: 자발적 대칭 깨짐
+- String Theory: 끈 이론
+- Loop Quantum Gravity: 고리 양자 중력
+- Holographic Principle: 홀로그래픽 원리
+- AdS/CFT Correspondence: 반데시터/공형장 대응
+- Non-Commutative Geometry: 비가환 기하학
+- Quantum Information Theory: 양자 정보 이론
+- Topological Quantum Field Theory: 위상적 양자장 이론
 
 ---
 
